@@ -31,7 +31,7 @@ Temat projektu B [link do projektu na github]
 10 Porębiński	Wojciech Piotr   
    A: Gra Arkanoid (C++) [https://github.com/ketjowp/Aplikacje]
 
-11	Rozik	Marcin Krystian Temat projektu A [Kółko i krzyżyk]
+11	Rozik	Marcin Krystian Temat projektu A [Bankomat] [https://github.com/236320/Marcin]
 
 12	Strączek	Alicja Katarzyna Projekt 
     A: Snake [https://github.com/crystalxviolet/1]
